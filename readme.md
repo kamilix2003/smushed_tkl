@@ -1,6 +1,7 @@
 # smushed_tkl
 
 ![smushed_tkl](https://i.imgur.com/TzJTGKv.jpg)
+![smushed_tkl](https://i.imgur.com/JAiWIav.jpeg)
 
 Handwired TKL with removed one column from navigational cluster
 
